@@ -1307,7 +1307,6 @@ pointer-events: none;
       .review-form-checkbox-label {
         display: inline;
       }
-
-      @media screen and (min-width:1158px) {
+      }
        
       /*======= /MODAL WINDOW STYLES =======*/
